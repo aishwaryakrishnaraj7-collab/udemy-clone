@@ -63,7 +63,7 @@ body{
 }
 .mylearning:hover .mylearning__popup{
     display: block;
-}
+}/* This is used to make the popup */
 /*Categories*/
 .categories{
     display:flex;
